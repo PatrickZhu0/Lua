@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<profiles xmlns="http://www.logitech.com/Cassandra/2010.7/Profile">
+  <profile guid="{DFECD5DB-F7CD-458B-BFB3-B14E20298F78}" lastplayeddate="2018-01-25T15:03:00" lock="1" gpasupported="0" launchable="1" name="PUBG" gameid="" gkeysdk="0">
+    <description>pubg</description>
+    <target path="C:\GAME\STEAMLIBRARY\STEAMAPPS\COMMON\PUBG\TSLGAME\BINARIES\WIN64\TSLGAME.EXE"/>
+    <signature value="" key="" name="" executable=""/>
+    <macros>
+      <macro color="4278246655" guid="{5DAFA657-7E0B-4D37-9F7A-FA252ED551E6}" original="true" hidden="false" name="左键单击">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="leftclick"/>
+        </mousefunction>
+      </macro>
+      <macro color="4278246655" guid="{9D0F4485-F6CE-49AF-B3FB-328DBF996F1E}" original="true" hidden="false" name="右键单击">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="rightclick"/>
+        </mousefunction>
+      </macro>
+      <macro color="4278246655" guid="{8B615B23-6FDC-4430-9E57-E5CCBCAC4575}" original="true" hidden="false" name="单击中键">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="middleclick"/>
+        </mousefunction>
+      </macro>
+      <macro color="4278246655" devicecategory="Logitech.Gaming.Mouse" guid="{12C9716B-4D7A-4F6F-AF20-A0369219119A}" original="true" hidden="false" name="降低 DPI">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="dpidown"/>
+        </mousefunction>
+      </macro>
+      <macro color="4278246655" devicecategory="Logitech.Gaming.Mouse" guid="{68A1C0B2-2996-4992-9CC5-3285AC8E9740}" original="true" hidden="false" name="提高 DPI">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="dpiup"/>
+        </mousefunction>
+      </macro>
+      <macro color="4278246655" guid="{A0D817F6-1D5D-483B-ADD0-2634CD93D42A}" original="true" hidden="false" name="返回">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="back"/>
+        </mousefunction>
+      </macro>
+      <macro color="4278246655" guid="{8B13562D-60F2-460F-9588-8C84168C81BC}" original="true" hidden="false" name="前进">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="forward"/>
+        </mousefunction>
+      </macro>
+      <macro color="4278246655" devicecategory="Logitech.Gaming.Mouse" guid="{A1FEC5BC-9A8A-49C5-B085-0E2EDCEF1F55}" original="true" hidden="false" name="切换 DPI">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="dpishift"/>
+        </mousefunction>
+      </macro>
+      <macro color="4278246655" guid="{871DDB61-FD15-407F-9E3B-A0FB739B9387}" original="true" hidden="false" name="B">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="B"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" guid="{AEB183E0-9019-4392-896B-4DAC8330FA67}" original="true" hidden="false" name="X">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="X"/>
+        </keystroke>
+      </macro>
+      <macro color="4278246655" guid="{29949D75-9185-4EA2-8AD3-8A0321C6413F}" original="true" hidden="true" name="返回">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="back"/>
+        </mousefunction>
+      </macro>
+      <macro color="4278246655" guid="{67241386-A633-4C59-8DD1-05788158F5C3}" original="true" hidden="true" name="前进">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="forward"/>
+        </mousefunction>
+      </macro>
+    </macros>
+    <assignments devicecategory="Logitech.Gaming.Mouse.G402">
+      <assignment original="true" shiftstate="1" contextid="Button1" macroguid="{5DAFA657-7E0B-4D37-9F7A-FA252ED551E6}" backup="false"/>
+      <assignment original="true" shiftstate="1" contextid="Button2" macroguid="{9D0F4485-F6CE-49AF-B3FB-328DBF996F1E}" backup="false"/>
+      <assignment original="true" shiftstate="1" contextid="Button3" macroguid="{8B615B23-6FDC-4430-9E57-E5CCBCAC4575}" backup="false"/>
+      <assignment original="true" shiftstate="1" contextid="Button7" macroguid="{12C9716B-4D7A-4F6F-AF20-A0369219119A}" backup="false"/>
+      <assignment original="true" shiftstate="1" contextid="Button8" macroguid="{68A1C0B2-2996-4992-9CC5-3285AC8E9740}" backup="false"/>
+      <assignment original="true" shiftstate="4" contextid="Button1" macroguid="{5DAFA657-7E0B-4D37-9F7A-FA252ED551E6}" backup="false"/>
+      <assignment original="true" shiftstate="4" contextid="Button2" macroguid="{9D0F4485-F6CE-49AF-B3FB-328DBF996F1E}" backup="false"/>
+      <assignment original="true" shiftstate="4" contextid="Button3" macroguid="{8B615B23-6FDC-4430-9E57-E5CCBCAC4575}" backup="false"/>
+      <assignment original="true" shiftstate="4" contextid="Button4" macroguid="{A0D817F6-1D5D-483B-ADD0-2634CD93D42A}" backup="false"/>
+      <assignment original="true" shiftstate="4" contextid="Button5" macroguid="{8B13562D-60F2-460F-9588-8C84168C81BC}" backup="false"/>
+      <assignment original="true" shiftstate="4" contextid="Button6" macroguid="{A1FEC5BC-9A8A-49C5-B085-0E2EDCEF1F55}" backup="false"/>
+      <assignment original="true" shiftstate="4" contextid="Button7" macroguid="{12C9716B-4D7A-4F6F-AF20-A0369219119A}" backup="false"/>
+      <assignment original="true" shiftstate="4" contextid="Button8" macroguid="{68A1C0B2-2996-4992-9CC5-3285AC8E9740}" backup="false"/>
+      <assignment original="false" shiftstate="1" contextid="Button5" macroguid="{67241386-A633-4C59-8DD1-05788158F5C3}" backup="true"/>
+      <assignment original="false" shiftstate="1" contextid="Button5" macroguid="{871DDB61-FD15-407F-9E3B-A0FB739B9387}" backup="false"/>
+      <assignment original="false" shiftstate="1" contextid="Button4" macroguid="{29949D75-9185-4EA2-8AD3-8A0321C6413F}" backup="true"/>
+      <assignment original="false" shiftstate="1" contextid="Button4" macroguid="{AEB183E0-9019-4392-896B-4DAC8330FA67}" backup="false"/>
+    </assignments>
+    <pointers>
+      <pointer devicemodel="Logitech.Gaming.Mouse.G402">
+        <mode shiftstate="1">
+          <reportrate rate="1000"/>
+          <powermode value="2"/>
+          <dpitable syncxy="1" defaultindex="0" shiftindex="0">
+            <dpi enabled="1" x="800" y="800"/>
+            <dpi enabled="1" x="1200" y="1200"/>
+          </dpitable>
+          <movement acceleration="1" speed="-1"/>
+        </mode>
+      </pointer>
+    </pointers>
+    <backlight devicemodel="Logitech.Gaming.Mouse.G402">
+      <mode color="#000000" shiftstate="1"/>
+      <mode color="#000000" shiftstate="2"/>
+      <mode color="#000000" shiftstate="3"/>
+    </backlight>
+    <script>----------------------------Btns
+function OutTransFunction()
+    IsM16 = false
+	IsAK = false
+
+	IsOnClick = false
+	ReleaseMouseButton(1)
+end	
+	
+function TransAK()
+	IsOnClick = false
+	IsM16 = false
+	IsAK = not IsAK
+end
+
+function TransM16()
+	IsOnClick = false
+	IsAK = false
+	IsM16 = not IsM16
+end
+
+function AkFunc(arg)
+	if	IsKeyLockOn(FourCode)  then
+		AKFourPoint() 
+	else 
+		UsualAK()
+	end 
+end
+
+function M16Func(arg)
+	if	IsKeyLockOn(FourCode)  then
+		M16FourPoint()
+	else 
+		UsualM16() 
+	end 
+end
+
+function UsualAK()
+	shotTime = 0       
+	repeat
+		if (IsMouseButtonPressed(1)) then
+			if  shotTime>1400 then
+				MoveMouseRelative(0, 7.5)
+			elseif shotTime>1000 then
+				MoveMouseRelative(0, 7.5)
+			elseif shotTime &lt; 1000 then
+				MoveMouseRelative(0, 6)
+			end
+			PressAndReleaseKey(FireCode)
+			Sleep(30)
+			shotTime = shotTime+30
+		else
+			break
+		end
+	until( not IsOnClick )
+end
+
+function AKFourPoint()
+	shotTime = 0       
+	repeat
+		if (IsMouseButtonPressed(1)) then
+			if  shotTime>1400 then
+				MoveMouseRelative(0, 28)
+			elseif shotTime>1000 then
+				MoveMouseRelative(0, 37)
+			elseif shotTime &lt; 1000 then
+				MoveMouseRelative(0, 20)
+			end
+			PressAndReleaseKey(FireCode)
+			Sleep(30)
+			shotTime = shotTime+30
+		else
+			break
+		end
+	until( not IsOnClick )
+end
+
+function UsualM16()
+	shotTime = 0 
+	repeat
+		if (IsMouseButtonPressed(1)) then
+			if  shotTime>1840 then 
+				MoveMouseRelative(0, 8)
+			elseif  shotTime>1000 then
+				MoveMouseRelative(0, 8)
+			elseif shotTime>680 then
+				MoveMouseRelative(0, 11)
+			elseif shotTime &lt; 680 then
+				MoveMouseRelative(0, 7)
+			end
+			PressAndReleaseKey(FireCode)
+			Sleep(30)
+			shotTime = shotTime+30
+		else
+			break
+        end
+    until( not IsOnClick )
+end
+
+function M16FourPoint()
+	shotTime = 0 
+	repeat
+		if (IsMouseButtonPressed(1)) then
+			if  shotTime>1840 then 
+				MoveMouseRelative(0, 29)
+			elseif  shotTime>1000 then
+				MoveMouseRelative(0, 29)
+			elseif shotTime>680 then
+				MoveMouseRelative(0, 45)
+			elseif shotTime &lt; 680 then
+				MoveMouseRelative(0, 26)
+			end
+			PressAndReleaseKey(FireCode)
+			Sleep(30)
+			shotTime = shotTime+30
+		else
+			break
+		end
+	until( not IsOnClick )      
+end
+
+function OnEvent(event, arg)
+    OutputLogMessage("event = %s, 键号是 = %s\n", event, arg)
+	AkNumber = 6;
+	M16Number = 7;
+	FireCode = "Left";
+	FourCode = "scrolllock";--四倍
+	SuperClose = 8; --一键关闭
+	
+	if (event == "MOUSE_BUTTON_RELEASED" and arg == 1) then
+		-- 鼠标按键1已被释放
+		IsOnClick = false	
+		ReleaseKey(FireCode)
+	end
+	
+	if (event == "PROFILE_ACTIVATED") then
+        EnablePrimaryMouseButtonEvents(true)
+    elseif event == "PROFILE_DEACTIVATED" then
+		IsOnClick = false
+    end
+	
+	IsOnClick = false
+	
+	if (event == "MOUSE_BUTTON_PRESSED" and arg == 1) then
+		IsOnClick = not IsOnClick
+	end
+	
+	if (event == "MOUSE_BUTTON_PRESSED" and arg == AkNumber) then --Trans AKkey
+		OutputLogMessage("event AKAK\n", event, arg)
+		TransAK()
+		IsOnClick = false
+    end
+	
+	if (event == "MOUSE_BUTTON_PRESSED" and arg == M16Number) then --Trans M16key
+		TransM16()
+		IsOnClick = false
+    end
+	
+	if (event == "MOUSE_BUTTON_PRESSED" and arg == SuperClose) then --Out Trans OutTranskey
+		OutTransFunction()
+		IsOnClick = false
+    end	
+	
+	
+	if (event == "MOUSE_BUTTON_PRESSED" and arg == 1 and IsAK) then
+		AkFunc(arg)
+	elseif (event == "MOUSE_BUTTON_PRESSED" and arg == 1 and IsM16) then
+		M16Func(arg)
+	elseif (event == "MOUSE_BUTTON_PRESSED" and arg == 1) then
+		if not PingBiFunc() then
+			PressKey(FireCode) 
+		end
+    end	
+	
+end</script>
+  </profile>
+</profiles>
